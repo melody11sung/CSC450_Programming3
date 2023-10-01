@@ -1,8 +1,9 @@
-// discussin board examples
+// Module 2 discussion board examples of Buffer Overflow
+
 #include <iostream>
 #include <cstring>
-using namespace std;
 
+using namespace std;
 
 int main() {
     // buffer overflow
