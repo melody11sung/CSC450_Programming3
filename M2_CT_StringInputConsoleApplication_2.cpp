@@ -1,4 +1,6 @@
-// practice 2 to try string, instead of char[]
+/* A simple console application that will take 2 string inputs from an user.
+Concatenate the two string inputs and print the resulting output to the screen.
+Take the two string inputs from the user 3 times for varying lengths. */
 
 #include <iostream>
 #include <cstring>
